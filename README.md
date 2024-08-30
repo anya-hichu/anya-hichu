@@ -1,1 +1,1 @@
-Hewwo, I'm Anya! Sometimes I code stuff related to modding in ff14.
+Hewwo, I'm Anya! Sometimes I code stuff related to ff14 modding.
