@@ -1,3 +1,3 @@
 # Hewwo, I'm Anya!
 
-Indefinite hiatus, feel free to fork
+Currently on an indefinite hiatus, feel free to fork
